@@ -1,1 +1,2 @@
 Some example words here <----
+Other changes for step 7
